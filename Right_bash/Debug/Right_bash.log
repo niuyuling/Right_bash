@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\niuyuling\source\repos\Right_bash\main.cpp(122,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\niuyuling\source\repos\Right_bash\main.cpp(126,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+  Right_bash.vcxproj -> C:\Users\niuyuling\source\repos\Right_bash\Debug\Right_bash.exe
