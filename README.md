@@ -3,6 +3,6 @@
     
     
 # Help
-    Right_bash.exe -a  // 帮助
+    Right_bash.exe -h  // 帮助
     Right_bash.exe -a  // 添加
     Right_bash.exe -d  // 删除
