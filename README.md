@@ -3,6 +3,9 @@
     
     
 # Help
-    Right_bash.exe -h  // 帮助
-    Right_bash.exe -a  // 添加
-    Right_bash.exe -d  // 删除
+    Right_bash.exe -h,?  print help
+    Right_bash.exe -a add Registry
+    Right_bash.exe -d delete Registry
+    Right_bash.exe -b Start SSH on boot
+    Right_bash.exe -p Turn off and start SSH
+    
